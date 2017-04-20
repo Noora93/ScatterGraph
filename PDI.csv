@@ -1,4 +1,4 @@
-Year,Patient County,PDI Number,PDI,Observed,Expected,"Risk Adjusted Rate Per 100,000 People",Difference in Rates
+Year,County,PDI Number,PDI,Observed,Expected,"Risk Adjusted Rate Per 100,000 People",Difference in Rates
 2009,STATEWIDE,PDI_14,Asthma,242.83,242.83,,
 2010,STATEWIDE,PDI_14,Asthma,205.77,205.77,,
 2011,STATEWIDE,PDI_14,Asthma,206.28,206.28,,
